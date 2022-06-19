@@ -13,6 +13,8 @@ all you need to do is create a new file called `.env` in the main project folder
 replace the text with the respective tokens or variables to your liking:
 ```
 DISCORD_TOKEN="Your_Discord_Token_Here"
+DEBUG_MODE="true"
+TESTING_GUILD_ID="Testing_Guild_ID_Here"
 ```
 
 After that, we need to create a Python virtual environment for the bot to run in. This can easily be done by going to
